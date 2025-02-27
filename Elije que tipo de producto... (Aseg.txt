@@ -2,18 +2,3 @@ Elije que tipo de producto... (Asegura que el numero del menú sea correcto)
 Elije el producto...(Asegura que el numero del menú sea correcto)
 añade el producto al carrito y pregunta si desea comprar otro...
 al final muestra el total gastado, cuantos productos compro y cuales son!
-
-            } else if (opc_shampoo == 2 ) {
-                alert('Tu producto fue añadido correctamente')
-                carrito.push('Banana')
-                total = total + 5400
-
-            } else if (opc_shampoo == 3) {
-                alert('Tu producto fue añadido correctamente')
-                carrito.push('Wax')
-                total = total + 6000
-
-            } else if (opc_shampoo == 4) {
-                alert('Tu producto fue añadido correctamente')
-                carrito.push('Hyper black')
-                total = total + 7200
